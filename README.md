@@ -1,11 +1,11 @@
-# GroupDock
+# MyDock (trước đây là GroupDock)
 
-Bản phát hành và feed cập nhật (Sparkle) của GroupDock — dock thay thế cho macOS, gom app theo nhóm.
+Bản phát hành và feed cập nhật (Sparkle) của MyDock — dock thay thế cho macOS, gom app theo nhóm.
 
-Tải bản mới nhất ở mục **Releases**, giải nén, kéo `GroupDock.app` vào `/Applications`, rồi chạy:
+Tải bản mới nhất ở mục **Releases**, giải nén, kéo `MyDock.app` vào `/Applications`, rồi chạy:
 
 ```bash
-xattr -dr com.apple.quarantine "/Applications/GroupDock.app"
+xattr -dr com.apple.quarantine "/Applications/MyDock.app"
 ```
 
 Yêu cầu macOS 14 trở lên.

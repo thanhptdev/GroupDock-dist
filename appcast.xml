@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle"
      xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
-    <title>GroupDock Updates</title>
+    <title>MyDock Updates</title>
     <link>https://raw.githubusercontent.com/thanhptdev/GroupDock-dist/main/appcast.xml</link>
-    <description>GroupDock changelog</description>
+    <description>MyDock changelog</description>
     <language>en</language>
     <item>
-      <title>GroupDock 0.2.0</title>
-      <pubDate>Thu, 12 Nov 2026 07:34:17 +0000</pubDate>
-      <sparkle:version>2</sparkle:version>
-      <sparkle:shortVersionString>0.2.0</sparkle:shortVersionString>
+      <title>MyDock 0.3.0</title>
+      <pubDate>Thu, 12 Nov 2026 08:13:15 +0000</pubDate>
+      <sparkle:version>4</sparkle:version>
+      <sparkle:shortVersionString>0.3.0</sparkle:shortVersionString>
       <enclosure
-        url="https://github.com/thanhptdev/GroupDock-dist/releases/download/v0.2.0/GroupDock.zip"
-        sparkle:edSignature="trRIG1dGPLlWIoHHoaM2FLPlj2lV/b5Ett4tA+JVdnjXz1vixLbVNGG3vVcKG6LoS8pk4SHw9y5M/Bmg7XdJAQ=="
-        length="1660893"
+        url="https://github.com/thanhptdev/GroupDock-dist/releases/download/v0.3.0/MyDock.zip"
+        sparkle:edSignature="Xto6S8VzKTyIux+9OkSyzaEGWpTjqNYXzLdA3tBsxMeUe/yg/zFkZtitTR3llsB/TELEdWzvbcOzznnazW+yCw=="
+        length="1743107"
         type="application/octet-stream"
       />
     </item>
