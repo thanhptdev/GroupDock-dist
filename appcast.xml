@@ -8,13 +8,13 @@
     <language>en</language>
     <item>
       <title>MyDock 0.8.0</title>
-      <pubDate>Mon, 16 Nov 2026 07:20:38 +0000</pubDate>
+      <pubDate>Mon, 16 Nov 2026 04:57:23 +0000</pubDate>
       <sparkle:version>11</sparkle:version>
       <sparkle:shortVersionString>0.8.0</sparkle:shortVersionString>
       <enclosure
         url="https://github.com/thanhptdev/GroupDock-dist/releases/download/v0.8.0/MyDock.zip"
-        sparkle:edSignature="i7xbCsJXjY9GAZw2itOZlPCZmvgQubYOQ+8M/kgdlraIqPMXVVsAZSO+Mv47JkPd90d85XmJwSreCRhGOyMSBQ=="
-        length="2426776"
+        sparkle:edSignature="oB18N79NnafRxIRxKPZRmhj0U5Rt/BJCZkKlmtJtrvKUMjQx2YwbRra9zJ1tQWB1m0mXMQ4hRi6Q0lyJJPstAw=="
+        length="2362647"
         type="application/octet-stream"
       />
     </item>
