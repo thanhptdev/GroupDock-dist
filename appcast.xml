@@ -7,14 +7,14 @@
     <description>MyDock changelog</description>
     <language>en</language>
     <item>
-      <title>MyDock 0.8.1</title>
-      <pubDate>Mon, 16 Nov 2026 07:26:45 +0000</pubDate>
-      <sparkle:version>12</sparkle:version>
-      <sparkle:shortVersionString>0.8.1</sparkle:shortVersionString>
+      <title>MyDock 0.8.2</title>
+      <pubDate>Mon, 16 Nov 2026 10:39:11 +0000</pubDate>
+      <sparkle:version>13</sparkle:version>
+      <sparkle:shortVersionString>0.8.2</sparkle:shortVersionString>
       <enclosure
-        url="https://github.com/thanhptdev/GroupDock-dist/releases/download/v0.8.1/MyDock.zip"
-        sparkle:edSignature="0iQbdFnfu6/oX8Y39DGnvQe86Azc+/PySlDuHE5aqvhcabU0SlaUUy++5ICO3S12R/tviX8FRCfrtqEBe1ikBA=="
-        length="2426818"
+        url="https://github.com/thanhptdev/GroupDock-dist/releases/download/v0.8.2/MyDock.zip"
+        sparkle:edSignature="9xtpoVv1L89JK12QONSSFogDKgo058K1QUet/S4CCQuLpcKjeJc8bDfhm0NY+jnNMVney2TAX8OLtyOUPwoDAA=="
+        length="2426032"
         type="application/octet-stream"
       />
     </item>
